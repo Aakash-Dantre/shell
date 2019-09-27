@@ -1,0 +1,1 @@
+gcc -o exec cd.c cmds.c echo_pwd.c func-header.h ls.c main.c pinfo.c system.c tilda.c history.c kill.c corn.c print.c piping.c redirect.c exe.c jobs.c overkill.c fgbg.c env.c kjobs.c
